@@ -1,0 +1,88 @@
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 20;
+	display: flex;
+	justify-content: center;
+	padding: vc(50) vc(76);
+
+	&__wrapper {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+	}
+
+	&__logo {
+		display: block;
+		width: vc(131);
+		height: vc(47);
+		margin-top: -1px;
+		margin-left: -1px;
+	}
+
+	&__list {
+		display: flex;
+		align-items: center;
+	}
+
+	&__menu {
+		border-radius: vc(65);
+		background-color: #252525;
+		padding: vc(21) vc(40) vc(19);
+		margin-left: vc(-7);
+	}
+
+	&__link {
+		font-weight: 300;
+		font-size: vc(16);
+		line-height: 110%;
+		text-align: center;
+		color: #D4D4D4;
+		opacity: 0.8;
+		margin-right: vc(30);
+		transition: color 0.35s ease-in-out;
+
+		&:last-child {
+			margin-right: 0;
+		}
+
+		@include desktop {
+			&:hover {
+				color: $color-green;
+			}
+		}
+	}
+
+	&__lang {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: vc(124);
+		height: vc(52);
+		border-radius: vc(39);
+		background: #2B2B2B;
+		cursor: pointer;
+		transition: background 0.4s ease-in-out;
+
+		p {
+			font-family: $font-mulish;
+			font-weight: 600;
+			font-size: vc(16);
+			line-height: vc(20);
+			text-align: center;
+		}
+
+		@include desktop {
+			&:hover {
+				background: #373737;
+			}
+		}
+	}
+
+	@include devices {
+		padding: vc(44) vc(16);
+	}
+}

@@ -1,0 +1,25 @@
++popup({id: `product-3`}).popup-bars
+	+b.popupBars
+		+e.img-wrapper
+			+e.IMG.img-product(src=`${baseDir}assets/images/bars/1.png` alt="")
+			+e.IMG.img-bg(src=`${baseDir}assets/images/home/product-bg.png` alt="")
+		+e.content
+			+e.top
+				+e.title COFFEE LATTE
+
+				.tabs
+					ul.tab-menu
+						li.tab-link.active(data-tab='tab-product-3-1') Описание
+						li.tab-link(data-tab='tab-product-3-2') Состав
+						li.tab-link(data-tab='tab-product-3-3') Пищевая ценность
+
+					+b.tab-content.js-custom-scrollbar.active#tab-product-3-1
+						+e.subtitle Описание:
+						+e.desc Кофе латте батончик&nbsp;&mdash; это не&nbsp;просто вкусный перекус, это ваш личный компаньон в&nbsp;ежедневной рутине, который поднимает настроение и&nbsp;дарит энергию на&nbsp;весь день. В&nbsp;каждом батончике&nbsp;&mdash; целых #[span.is-green 13,1&nbsp;г протеина!] Это значит, что вы&nbsp;получаете мощную поддержку для ваших мышц.
+					+b.tab-content.js-custom-scrollbar#tab-product-3-2
+						+e.subtitle.mb Состав:
+						+e.desc #[is-bold Какао-порошок:] Содержит антиоксиданты, поддерживающие ваше сердце в&nbsp;тонусе. #[br] #[is-bold Мальтозная патока:] Источник энергии, который поддержит вас во&nbsp;время самых насыщенных моментов.
+					+b.tab-content.js-custom-scrollbar#tab-product-3-3
+						+e.IMG.graph(src=`${baseDir}assets/images/bars/graph-1.png` alt="")
+
+			+e.BUTTON.btn-back.popup__close(type="button" aria-lable="Закрыть окно") Назад

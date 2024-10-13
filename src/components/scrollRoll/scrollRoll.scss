@@ -1,0 +1,47 @@
+.scrollRoll {
+	width: 110%;
+	overflow: hidden;
+	background-color: $color-green;
+	padding: vc(20) 0;
+
+	&--1 {
+		transform: rotate(-2deg);
+		margin-bottom: vc(40);
+
+		@include devices {
+			transform: rotate(-2.6deg);
+		}
+	}
+
+	&--2 {
+		transform: rotate(1.7deg);
+		margin-bottom: vc(50);
+	}
+
+	&__content {
+		display: flex;
+	}
+
+	&__item {
+		display: flex;
+		align-items: center;
+	}
+
+	&__icon {
+		width: vc(44);
+		height: vc(44);
+		transform: scale(1.01);
+	}
+
+	&__text {
+		font-family: $font-BebasNeue;
+		font-weight: 700;
+		font-size: vc(25);
+		line-height: vc(30);
+		text-align: center;
+		text-transform: uppercase;
+		color: #020202;
+		margin: 0 vc(48);
+		white-space: nowrap;
+	}
+}

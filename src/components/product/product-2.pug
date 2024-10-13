@@ -1,0 +1,81 @@
++popup({id: `product-2`}).popup-vitamins
+	+b.popupVitamins
+		+e.IMG.img(src=`${baseDir}assets/images/vitamins/2.png` alt="")
+		+e.content
+			+e.top
+				+e.title Multi Vitamin #[br] for women
+
+				.tabs
+					ul.tab-menu
+						li.tab-link.active(data-tab='tab-product-2-1') Описание
+						li.tab-link(data-tab='tab-product-2-2') Состав
+						li.tab-link(data-tab='tab-product-2-3') Пищевая ценность
+						li.tab-link(data-tab='tab-product-2-4') Свойства
+						li.tab-link(data-tab='tab-product-2-5') Показания
+						li.tab-link(data-tab='tab-product-2-6') Противопоказание
+						li.tab-link(data-tab='tab-product-2-7') Сертификаты
+
+					+b.tab-content.js-custom-scrollbar.active#tab-product-2-1
+						+e.text Мультивитамины для женщин&nbsp;&mdash; это ваш секретный союзник, который помогает чувствовать себя на&nbsp;пике независимо от&nbsp;обстоятельств. С&nbsp;этим комплексом вы&nbsp;будете не&nbsp;просто здоровы, но&nbsp;и&nbsp;полны жизненных сил.
+						+e.ul.mt
+							+e.ul-item #[span.is-bold Применение:] по&nbsp;2&nbsp;капсулы 3&nbsp;раза в&nbsp;день за&nbsp;30-45 минут до&nbsp;еды по&nbsp;указанию специалиста.
+							+e.ul-item #[span.is-bold Условия хранения:] Хранить в&nbsp;сухом, защищенном от&nbsp;света месте, при температуре не&nbsp;выше 25&deg;С.
+							+e.ul-item #[span.is-bold Срок хранения 24&nbsp;месяца.]
+
+					+b.tab-content.js-custom-scrollbar#tab-product-2-2
+						+e.ul
+							+e.ul-item #[span.is-bold 7&nbsp;витаминов (A, C, D, B-комплекс)]&nbsp;&mdash; поддерживают здоровье кожи, укрепляют иммунитет и&nbsp;помогают сохранять эмоциональное равновесие.
+							+e.ul-item #[span.is-bold 4&nbsp;минерала (кальций, магний, цинк)]&nbsp;&mdash; укрепляют кости и&nbsp;поддерживают женское здоровье.
+							+e.ul-item #[span.is-bold L-карнитин]&nbsp;&mdash; помогает сжигать лишний жир и&nbsp;придаёт энергию для активного дня.
+							+e.ul-item #[span.is-bold 4&nbsp;экстракта (клюква, черника, гинкго билоба, зелёный чай)]&nbsp;&mdash; улучшают метаболизм, помогают справляться с&nbsp;менструальной болью и&nbsp;снижают эмоциональные перепады.
+
+					+b.tab-content.js-custom-scrollbar#tab-product-2-3
+						+e.IMG.graph(src=`${baseDir}assets/images/vitamins/graph-2.png` alt="")
+					+b.tab-content.js-custom-scrollbart#tab-product-2-4
+						+e.ul
+							+e.ul-item
+								span.is-bold Улучшает обмен веществ
+							+e.ul-item
+								span.is-bold Успокаивает нервы
+							+e.ul-item
+								span.is-bold Снимает менструальную боль
+							+e.ul-item
+								span.is-bold Помогает устранить эмоциональную лабильность
+							+e.ul-item
+								span.is-bold Обеспечивает дополнительную энергию
+							+e.ul-item
+								span.is-bold Помогает избавиться от&nbsp;лишнего веса
+
+					+b.tab-content.js-custom-scrollbar#tab-product-2-5
+						+e.ul
+							+e.ul-item
+								span.is-bold Общая слабость
+							+e.ul-item
+								span.is-bold Синдром хронической усталости
+							+e.ul-item
+								span.is-bold Депрессивный синдром
+							+e.ul-item
+								span.is-bold Менструальная боль
+							+e.ul-item
+								span.is-bold Избыточный вес и&nbsp;ожирение
+							+e.ul-item
+								span.is-bold Постменопаузальный синдром
+
+					+b.tab-content.js-custom-scrollbar#tab-product-2-6
+						+e.ul
+							+e.ul-item
+								span.is-bold При повышенной чувствительности к&nbsp;компонентам продукта.
+							+e.ul-item
+								span.is-bold Тяжелая сердечная, печеночная и&nbsp;почечная недостаточность.
+
+					+b.tab-content.js-custom-scrollbar#tab-product-2-7
+						+e.slider.js-slider
+							.swiper-wrapper
+								+e.slider-item.swiper-slide
+									+e.slider-text #[span.is-bold ISO (Международная организация по&nbsp;стандартизации)]&nbsp;&mdash; это система стандартов, которые гарантируют, что продукция производится с&nbsp;соблюдением строгих норм качества, безопасности и&nbsp;эффективности. Не&nbsp;каждая компания получает этот сертификат, поскольку для его получения необходимо пройти тщательные проверки и&nbsp;соответствовать международным стандартам. Продукты с&nbsp;сертификатом ISO&nbsp;&mdash; это знак того, что они производятся по&nbsp;самым высоким стандартам в&nbsp;отрасли.
+								+e.slider-item.swiper-slide
+									+e.slider-text #[span.is-bold HALAL]&nbsp;&mdash; это сертификат, который подтверждает, что продукт соответствует требованиям исламских норм и&nbsp;может употребляться мусульманами. Сертификация HALAL гарантирует, что продукция изготавливается с&nbsp;соблюдением строгих требований, исключающих использование запрещённых ингредиентов и&nbsp;методов производства. Этот сертификат также выдаётся не&nbsp;всем, а&nbsp;только тем компаниям, которые соответствуют установленным религиозным стандартам.
+								+e.slider-item.swiper-slide
+									+e.slider-text #[span.is-bold 100% натуральный продукт гарантирует использование исключительно природных ингредиентов, без синтетики, красителей и&nbsp;консервантов. Этот сертификат выдаётся продуктам, соответствующим строгим стандартам натуральности на&nbsp;всех этапах производства&nbsp;&mdash; от&nbsp;сырья до&nbsp;упаковки. Он&nbsp;подтверждает, что продукт полностью натуральный, безопасный для здоровья и&nbsp;окружающей среды.]
+							.swiper-pagination
+			+e.BUTTON.btn-back.popup__close(type="button" aria-lable="Закрыть окно") Назад
