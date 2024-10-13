@@ -102,6 +102,7 @@
 		"gsap": "3.12.5",
 		"swiper": "7.0.6",
 		"simplebar": "5.3.9",
+		"i18n-js": "4.4.3",
 		"jquery": "3.6.0",
 		"jquery-validation": "^1.19.3"
 	},

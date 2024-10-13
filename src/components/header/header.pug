@@ -5,11 +5,13 @@
 				+svg("logo")
 		+e.menu.for-desktop
 			+e.list
-				+e.A.link.js-scroll-link(href="#section1" data-target="section1") Покоряй себя
-				+e.A.link.js-scroll-link(href="#section2" data-target="section2") История
-				+e.A.link.js-scroll-link(href="#section3" data-target="section3") Продукция
-				+e.A.link.js-scroll-link(href="#section4" data-target="section4") Предложение
-				+e.A.link.js-scroll-link(href="#section5" data-target="section5") Контакты
+				+e.A.link.js-scroll-link(href="#section1" data-target="section1" data-i18n="menu.link_1") Покоряй себя
+				+e.A.link.js-scroll-link(href="#section2" data-target="section2" data-i18n="menu.link_2") История
+				+e.A.link.js-scroll-link(href="#section3" data-target="section3" data-i18n="menu.link_3") Продукция
+				+e.A.link.js-scroll-link(href="#section4" data-target="section4" data-i18n="menu.link_4") Предложение
+				+e.A.link.js-scroll-link(href="#section5" data-target="section5" data-i18n="menu.link_5") Контакты
 		+e.right
-			+e.lang
+			+e.lang.js-lang-ru(type="button" data-lang="ru")
 				p Русский
+			+e.lang.js-lang-uzb(type="button" data-lang="uzb")
+				p Узбекский

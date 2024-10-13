@@ -10,6 +10,7 @@ import '@styles/main.scss';
 import actualYear from '@scripts/modules/actual-year';
 import uaParser from '@scripts/modules/ua-parser';
 import vhFix from '@scripts/modules/vh-fix';
+import i18n from '@scripts/modules/i18n';
 
 import {isDevices} from '@scripts/helpers/index';
 import lazyLoad from '@scripts/modules/lazy-load';
@@ -92,6 +93,7 @@ const init = () => {
 
 	home.init();
 	popup.init();
+	i18n.init();
 
 	setTimeout(function () {
 		document.body.classList.add('is-loaded');
