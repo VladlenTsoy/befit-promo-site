@@ -11,12 +11,10 @@ block content
 			+b.popupSuccess
 				+e.IMG.img(src=`${baseDir}assets/images/icons/success-icon.svg` alt="")
 				+e.content
-					+e.title Заявка отправлена
+					+e.title(data-i18n="success.title") Заявка отправлена
 					+e.text
-						span Отлично!
-						span Мы&nbsp;свяжемся с&nbsp;вами в&nbsp;ближайшее время
-						span (в&nbsp;течение 24&nbsp;часов).
-					+e.BUTTON.btn-back.popup__close(type="button" aria-lable="Закрыть окно") Спасибо!
+						span(data-i18n="success.text") Вы&nbsp;среди тех, кто первым узнает о&nbsp;наших продуктах. Наш представитель свяжется с&nbsp;вами в&nbsp;ближайшее время
+					+e.BUTTON.btn-back.popup__close(type="button" data-i18n="success.btn") Спасибо!
 
 		include ../components/product/product-1
 		include ../components/product/product-2
@@ -159,7 +157,7 @@ block content
 
 		+b.home-contacts#section5
 			+e.IMG.bg-1.for-devices(src=`${baseDir}assets/images/home/circle-6.png` alt="")
-			+e.title.title(data-aos="fade-up" data-i18n="contacts.title") МЫ ЗДЕСЬ
+			+e.title.title(data-aos="fade-up" data-i18n="contacts") МЫ ЗДЕСЬ
 			+e.content(data-aos="fade-up" data-aos-delay="150")
 				+e.A.btn(href="https://instagram.com/befitnutrition.uz" target="_blank")
 					+e.IMG.btn-border.for-devices(src=`${baseDir}assets/images/icons/border-mobile.svg` alt="")

@@ -141,14 +141,30 @@
 		display: flex;
 		padding: 0;
 		margin-bottom: vc(20);
+		width: 100%;
 
-		@include devices {
-			width: 100%;
-			overflow-x: auto;
+		.simplebar-track.simplebar-horizontal {
+			//top: vc(5);
+			bottom: vc(-9);
+			height: vc(8);
+		}
+
+		.simplebar-track.simplebar-vertical {
+			display: none;
+		}
+
+		@include desktop {
+			width: vc(694);
+			height: vc(35);
+
+			.simplebar-content-wrapper {
+				overflow: scroll hidden;
+			}
 		}
 	}
 
 	.tab-menu li {
+		display: inline;
 		padding: vc(12);
 		font-weight: 500;
 		font-size: vc(12);
@@ -171,6 +187,10 @@
 
 	.tab-content {
 		display: none;
+
+		.is-bold {
+			font-weight: 500;
+		}
 
 		&__slider {
 			position: relative;
