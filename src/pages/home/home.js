@@ -131,48 +131,48 @@ const formValidation = () => {
 			// console.log("Invalid form submission");
 		},
 		submitHandler: function(form) {
-			// console.log("Form submitted");
-
-			popup.open('form-success');
+			console.log("Form submitted");
 
 			setTimeout(function () {
 				// form.submit();
 
-				// sendPublication();
+				sendPublication();
 			}, 1000)
 		}
 	});
 }
 
 const sendPublication = () => {
-	let dataForm = new FormData();
+	const API = 'https://befit-promo-api.vercel.app/send-application';
 
-	const API = '';
+	const name = $("input[name='name']").val();
+	const phone = $("input[name='phone']").val();
 
-	dataForm.append('phone', data.phone);
-	dataForm.append('name', data.name);
+	console.log('data.phone', name);
+	console.log('data.phone', phone);
 
-	// for(let pair of dataForm.entries()) {
-	// 	console.log(pair[0]+ ' = '+ pair[1]);
-	// }
+	const data = {
+		name: name,
+		phone: phone
+	};
 
 	$.ajax({
 		type: 'POST',
 		url: API,
-		data: dataForm,
-		contentType: false,
+		data: JSON.stringify(data),
+		contentType: 'application/json',
 		cache: false,
-		processData: false,
 		success: function(data){
 			if(data.status!==undefined && data.status!==null && data.status==='success'){
-				// console.log('Успешный ответ:', data);
+				console.log('Успешный ответ:', data);
 
+				popup.open('form-success');
 			} else {
-				// console.log('Ошибка:', data);
+				console.log('Ошибка:', data);
 			}
 		},
 		error: function(error) {
-			// console.log('Ошибка при отправке данных:', error.status, error.statusText);
+			console.log('Ошибка при отправке данных:', error.status, error.statusText);
 		},
 	});
 }

@@ -8,6 +8,16 @@ export default {
 	baseDir,
 	title: 'BEFIT NUTRITION',
 	description: 'Мы создали линейку продуктов, чтобы поддерживать вас на пути к новым достижениям. Каждый продукт BEFIT NUTRITION разработан для вашего максимального результата — будь то энергия, здоровье или восстановление.',
+	share: {
+		default: {
+			title: '',
+			description: '',
+		},
+		custom: {
+			title: '',
+			description: ''
+		}
+	},
 	keywords: '',
 	image: '',
 	link: {
