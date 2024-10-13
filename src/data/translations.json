@@ -144,31 +144,31 @@
 				}
 			},
 			"prod_4": {
-				"text": "",
+				"text": "Батончик с&nbsp;клубникой и&nbsp;фундуком&nbsp;&mdash; это настоящий заряд позитива и&nbsp;лёгкости, который добавит красок даже в&nbsp;самый серый день. В&nbsp;нём 12,5&nbsp;г протеина, которые помогают поддерживать ваши мышцы в&nbsp;отличной форме.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Клубника:</span> Богата витамином&nbsp;С и&nbsp;антиоксидантами, помогая вам быть всегда на&nbsp;пике.",
+					"text_2": "<span class='is-bold'>Фундук:</span> Источник полезных жиров, заботящихся о&nbsp;вашем сердце и&nbsp;придающих блеск глазам."
 				}
 			},
 			"prod_5": {
-				"text": "",
+				"text": "Этот батончик&nbsp;&mdash; не&nbsp;просто экзотический вкус, это маленький праздник для вашего организма. В&nbsp;нём 12,5&nbsp;г протеина, что означает поддержку ваших мышц и&nbsp;активного образа жизни.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Манго:</span> Полон витамина&nbsp;А, что поддерживает ваше зрение и&nbsp;укрепляет иммунитет.",
+					"text_2": "<span class='is-bold'>Кешью:</span> Богат витаминами группы&nbsp;B, дарит ощущение спокойствия и&nbsp;помогает справляться со&nbsp;стрессом."
 				}
 			},
 			"prod_6": {
-				"text": "",
+				"text": "Кокосовый батончик с&nbsp;кремом и&nbsp;миндалём&nbsp;&mdash; это кусочек райского отдыха прямо у&nbsp;вас в&nbsp;руках. В&nbsp;каждом батончике&nbsp;&mdash; 12,6&nbsp;г протеина, поддерживающего ваши мышцы и&nbsp;способствующего восстановлению после активного дня.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Кокосовая стружка:</span> Обогащает полезными жирами, которые заботятся о&nbsp;вашей коже и&nbsp;иммунной системе.",
+					"text_2": "<span class='is-bold'>Миндаль:</span> Содержит витамин&nbsp;Е, который помогает сохранить молодость и&nbsp;эластичность кожи."
 				}
 			},
 			"prod_7": {
-				"text": "",
+				"text": "Батончик с&nbsp;лесными ягодами&nbsp;&mdash; это вкус приключений, который вдохновляет на&nbsp;новые свершения. В&nbsp;нём целых 12,9&nbsp;г протеина, который помогает поддерживать вашу силу и&nbsp;энергию.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Лесные ягоды (малина, ежевика):</span> Богаты антиоксидантами и&nbsp;витамином&nbsp;С, чтобы каждая ваша клетка чувствовала себя защищённой.",
+					"text_2": "<span class='is-bold'>Какао-порошок:</span> Улучшает настроение и&nbsp;поддерживает здоровье сердечно-сосудистой системы, чтобы вы&nbsp;чувствовали себя непобедимым."
 				}
 			}
 		},
@@ -314,38 +314,38 @@
 				}
 			},
 			"prod_3": {
-				"text": "",
+				"text": "Qahva latte bar&nbsp;&mdash; nafaqat mazali gazak, balki bu&nbsp;kundalik ishingizda sizning shaxsiy hamrohingiz bo&rsquo;lib, kayfiyatingizni ko&rsquo;taradi va&nbsp;kun bo&rsquo;yi energiya beradi. Har bir barda 13,1&nbsp;g protein mavjud! Bu&nbsp;mushaklaringiz uchun kuchli ko&rsquo;mak berishini anglatadi.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Kakao kukuni</span> Yuragingizni yaxshi holatda ushlab turadigan antioksidantlarni o&rsquo;z ichiga oladi.",
+					"text_2": "<span class='is-bold'>Maltoza shinnisi:</span> Eng qizg&rsquo;in daqiqalarda sizni qo&rsquo;llab-quvvatlaydigan energiya manbai."
 				}
 			},
 			"prod_4": {
-				"text": "",
+				"text": "Qulupnay va&nbsp;fundukli bar&nbsp;&mdash; bu&nbsp;hatto eng omadsiz kunga ham rang qo&rsquo;shadigan hursandchilik va&nbsp;yengillikning haqiqiy manbasidir. Unda&nbsp;12,5&nbsp;g protein mavjud bo&rsquo;lib, bu&nbsp;sizning mushaklaringizni yuqori shaklda saqlashga yordam beradi.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Qulupnay:</span> Vitamin C&nbsp;va antioksidantlarga boy bo&rsquo;lib, bu&nbsp;sizga doimo eng yuqori cho&rsquo;qqida bo&rsquo;lishga yordam beradi.",
+					"text_2": "<span class='is-bold'>Funduk:</span> Sog&rsquo;lom yog&rsquo;lar manbasiga ega, yuragingizga g&rsquo;amxo&rsquo;rlik qiladi va&nbsp;ko&rsquo;zlaringizga yorqinlik beradi"
 				}
 			},
 			"prod_5": {
-				"text": "",
+				"text": "Bu&nbsp;bar shunchaki ekzotik ta&rsquo;m bo&rsquo;lmay, balki sizning tanangiz uchun kichik bayramdir. Unda&nbsp;12,5&nbsp;g protein mavjud bo&rsquo;lib, bu&nbsp;sizning mushaklaringizni va&nbsp;faol hayot tarzingizni qo&rsquo;llab-quvvatlaydi.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Mango:</span> A&nbsp;vitaminiga boy, bu&nbsp;sizning ko&rsquo;rish qobiliyatingizni qo&rsquo;llab-quvvatlaydi va&nbsp;immunitetingizni mustahkamlaydi.",
+					"text_2": "<span class='is-bold'>Keshyu mag&rsquo;izi:</span> B&nbsp;vitaminlariga boy, xotirjamlik hissini beradi va&nbsp;stressni yengishga yordam beradi."
 				}
 			},
 			"prod_6": {
-				"text": "",
+				"text": "Kokos, bodom va&nbsp;kremli barlar&nbsp;&mdash; bu&nbsp;sizning qo&rsquo;lingizdagi jannatning bir qismidir. Har bir barda&nbsp;&mdash; 12,6&nbsp;g protein mavjud bo&rsquo;lib, bu&nbsp;mushaklaringizni qo&rsquo;llab-quvvatlaydi va&nbsp;faol kundan keyin tiklanishiga yordam beradi",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>Kokos parchalari:</span> teri va&nbsp;immunitet tizimiga g&rsquo;amxo&rsquo;rlik qiluvchi sog&rsquo;lom yog&rsquo;lar bilan boyitilgan.",
+					"text_2": "<span class='is-bold'>Bodom:</span> E&nbsp;vitaminini o&rsquo;z ichiga oladi, bu&nbsp;terining yosh va&nbsp;elastikligini saqlashga yordam beradi."
 				}
 			},
 			"prod_7": {
-				"text": "",
+				"text": "O&rsquo;rmon mevalari bari&nbsp;&mdash; bu&nbsp;yangi yutuqlarga ilhomlantiradigan sarguzashtlarning ta&rsquo;mi. Unda&nbsp;12,9&nbsp;g protein mavjud bo&rsquo;lib, bu&nbsp;sizning kuchingiz va&nbsp;energiyangizni saqlashga yordam beradi.",
 				"tab_1": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>O&rsquo;rmon mevalari (malina, maymunjon):</span> Antioksidantlar va&nbsp;S vitaminiga boy bo&rsquo;lib, har bir hujayrangizni himoya qiladi.",
+					"text_2": "<span class='is-bold'>Kakao kukuni:</span> O&rsquo;zingizni yengilmas his qilishingiz uchun kayfiyatni yaxshilaydi va&nbsp;yurak-qon tomir sog&rsquo;lig&rsquo;ini qo&rsquo;llab-quvvatlaydi."
 				}
 			}
 		},
