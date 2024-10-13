@@ -135,6 +135,41 @@
 					"text_2": "<span class='is-bold'>HALAL</span>&nbsp;&mdash; это сертификат, который подтверждает, что продукт соответствует требованиям исламских норм и&nbsp;может употребляться мусульманами. Сертификация HALAL гарантирует, что продукция изготавливается с&nbsp;соблюдением строгих требований, исключающих использование запрещённых ингредиентов и&nbsp;методов производства. Этот сертификат также выдаётся не&nbsp;всем, а&nbsp;только тем компаниям, которые соответствуют установленным религиозным стандартам.",
 					"text_3": "<span class='is-bold'>100% натуральный продукт гарантирует использование исключительно природных ингредиентов, без синтетики, красителей и&nbsp;консервантов. Этот сертификат выдаётся продуктам, соответствующим строгим стандартам натуральности на&nbsp;всех этапах производства&nbsp;&mdash; от&nbsp;сырья до&nbsp;упаковки. Он&nbsp;подтверждает, что продукт полностью натуральный, безопасный для здоровья и&nbsp;окружающей среды.</span>"
 				}
+			},
+			"prod_3": {
+				"text": "Кофе латте батончик&nbsp;&mdash; это не&nbsp;просто вкусный перекус, это ваш личный компаньон в&nbsp;ежедневной рутине, который поднимает настроение и&nbsp;дарит энергию на&nbsp;весь день. В&nbsp;каждом батончике&nbsp;&mdash; целых 13,1&nbsp;г протеина! Это значит, что вы&nbsp;получаете мощную поддержку для ваших мышц.",
+				"tab_1": {
+					"text_1": "<span class='is-bold'>Какао-порошок:</span> Содержит антиоксиданты, поддерживающие ваше сердце в&nbsp;тонусе.",
+					"text_2": "<span class='is-bold'>Мальтозная патока:</span> Источник энергии, который поддержит вас во&nbsp;время самых насыщенных моментов."
+				}
+			},
+			"prod_4": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_5": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_6": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_7": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
 			}
 		},
 		"share": {
@@ -277,8 +312,42 @@
 					"text_1": "Mahsulot tarkibiy qismlariga yuqori sezuvchanlik bo&rsquo;lsa.",
 					"text_2": "Og&rsquo;ir yurak, jigar va&nbsp;buyrak yetishmovchiligi bo&rsquo;lsa."
 				}
+			},
+			"prod_3": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_4": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_5": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_6": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
+			},
+			"prod_7": {
+				"text": "",
+				"tab_1": {
+					"text_1": "<span class='is-bold'></span>",
+					"text_2": "<span class='is-bold'></span>"
+				}
 			}
-
 		},
 		"share": {
 			"title": {
