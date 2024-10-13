@@ -66,9 +66,10 @@
 					"text_3": "Срок хранения 24&nbsp;месяца."
 				},
 				"tab_2": {
-					"text_1": "<span class='is-bold'></span>",
-					"text_2": "<span class='is-bold'></span>",
-					"text_3": "<span class='is-bold'></span>"
+					"text_1": "<span class='is-bold'>8&nbsp;витаминов (A, C, D, B-комплекс)&nbsp;&mdash; поддерживают иммунитет, улучшают обмен веществ и&nbsp;помогают сохранять ясность ума.</span>",
+					"text_2": "<span class='is-bold'>2&nbsp;минерала (кальций и&nbsp;цинк)&nbsp;&mdash; укрепляют кости и&nbsp;поддерживают здоровье кожи.</span>",
+					"text_3": "<span class='is-bold'>6&nbsp;аминокислот (лейцин, валин, изолейцин и&nbsp;другие)&nbsp;&mdash; способствуют восстановлению и&nbsp;росту мышц, помогая вам справляться с&nbsp;физическими нагрузками.</span>",
+					"text_4": "<span class='is-bold'>6&nbsp;экстрактов (женьшень, гинкго билоба, зелёный чай и&nbsp;другие)&nbsp;&mdash; заряжают энергией, улучшают концентрацию и&nbsp;помогают сохранять спокойствие в&nbsp;любой ситуации.</span>"
 				},
 				"tab_3": {
 					"text_1": "Улучшает обмен веществ",
@@ -85,6 +86,45 @@
 					"text_4": "Вторичное бесплодие",
 					"text_5": "Избыточный вес и&nbsp;ожирение",
 					"text_6": "Простатит (в&nbsp;составе комплексной терапии)"
+				},
+				"tab_5": {
+					"text_1": "При повышенной чувствительности к&nbsp;компонентам продукта.",
+					"text_2": "Тяжелая сердечная, печеночная и&nbsp;почечная недостаточность."
+				},
+				"tab_6": {
+					"text_1": "<span class='is-bold'>ISO (Международная организация по&nbsp;стандартизации)</span>&nbsp;&mdash; это система стандартов, которые гарантируют, что продукция производится с&nbsp;соблюдением строгих норм качества, безопасности и&nbsp;эффективности. Не&nbsp;каждая компания получает этот сертификат, поскольку для его получения необходимо пройти тщательные проверки и&nbsp;соответствовать международным стандартам. Продукты с&nbsp;сертификатом ISO&nbsp;&mdash; это знак того, что они производятся по&nbsp;самым высоким стандартам в&nbsp;отрасли.",
+					"text_2": "<span class='is-bold'>HALAL</span>&nbsp;&mdash; это сертификат, который подтверждает, что продукт соответствует требованиям исламских норм и&nbsp;может употребляться мусульманами. Сертификация HALAL гарантирует, что продукция изготавливается с&nbsp;соблюдением строгих требований, исключающих использование запрещённых ингредиентов и&nbsp;методов производства. Этот сертификат также выдаётся не&nbsp;всем, а&nbsp;только тем компаниям, которые соответствуют установленным религиозным стандартам.",
+					"text_3": "<span class='is-bold'>100% натуральный продукт гарантирует использование исключительно природных ингредиентов, без синтетики, красителей и&nbsp;консервантов. Этот сертификат выдаётся продуктам, соответствующим строгим стандартам натуральности на&nbsp;всех этапах производства&nbsp;&mdash; от&nbsp;сырья до&nbsp;упаковки. Он&nbsp;подтверждает, что продукт полностью натуральный, безопасный для здоровья и&nbsp;окружающей среды.</span>"
+				}
+			},
+			"prod_2": {
+				"text": "Мультивитамины для женщин&nbsp;&mdash; это ваш секретный союзник, который помогает чувствовать себя на&nbsp;пике независимо от&nbsp;обстоятельств. С&nbsp;этим комплексом вы&nbsp;будете не&nbsp;просто здоровы, но&nbsp;и&nbsp;полны жизненных сил.",
+				"tab_1": {
+					"text_1": "по&nbsp;2&nbsp;капсулы 3&nbsp;раза в&nbsp;день за&nbsp;30-45 минут до&nbsp;еды по&nbsp;указанию специалиста.",
+					"text_2": "Хранить в&nbsp;сухом, защищенном от&nbsp;света месте, при температуре не&nbsp;выше 25&deg;С.",
+					"text_3": "Срок хранения 24&nbsp;месяца."
+				},
+				"tab_2": {
+					"text_1": "<span class='is-bold'>7&nbsp;витаминов (A, C, D, B-комплекс)</span>&nbsp;&mdash; поддерживают здоровье кожи, укрепляют иммунитет и&nbsp;помогают сохранять эмоциональное равновесие.",
+					"text_2": "<span class='is-bold'>4&nbsp;минерала (кальций, магний, цинк)</span>&nbsp;&mdash; укрепляют кости и&nbsp;поддерживают женское здоровье.",
+					"text_3": "<span class='is-bold'>L-карнитин</span>&nbsp;&mdash; помогает сжигать лишний жир и&nbsp;придаёт энергию для активного дня.",
+					"text_4": "<span class='is-bold'>4&nbsp;экстракта (клюква, черника, гинкго билоба, зелёный чай)</span>&nbsp;&mdash; улучшают метаболизм, помогают справляться с&nbsp;менструальной болью и&nbsp;снижают эмоциональные перепады."
+				},
+				"tab_3": {
+					"text_1": "Улучшает обмен веществ",
+					"text_2": "Успокаивает нервы",
+					"text_3": "Снимает менструальную боль",
+					"text_4": "Помогает устранить эмоциональную лабильность",
+					"text_5": "Обеспечивает дополнительную энергию",
+					"text_6": "Помогает избавиться от лишнего веса"
+				},
+				"tab_4": {
+					"text_1": "Общая слабость",
+					"text_2": "Синдром хронической усталости",
+					"text_3": "Депрессивный синдром",
+					"text_4": "Менструальная боль",
+					"text_5": "Избыточный вес и&nbsp;ожирение",
+					"text_6": "Постменопаузальный синдром"
 				},
 				"tab_5": {
 					"text_1": "При повышенной чувствительности к&nbsp;компонентам продукта.",
@@ -172,6 +212,12 @@
 					"text_2": "Quruq, yorug&rsquo;likdan himoyalangan joyda, 25&deg;C dan yuqori bo&rsquo;lmagan haroratda saqlang.",
 					"text_3": "Yaroqlilik muddati 24&nbsp;oy."
 				},
+				"tab_2": {
+					"text_1": "<span class='is-bold'>8&nbsp;ta vitamin (A, C, D, B-kompleks)&nbsp;&mdash; immunitetni qo&rsquo;llab-quvvatlaydi, metabolizmni yaxshilaydi va&nbsp;aqliy ravshanlikni saqlashga yordam beradi.</span>",
+					"text_2": "<span class='is-bold'>2&nbsp;ta mineral (kaltsiy va&nbsp;sink)&nbsp;&mdash; suyaklarni mustahkamlaydi va&nbsp;terining sog&rsquo;lig&rsquo;ini saqlaydi.</span>",
+					"text_3": "<span class='is-bold'>6&nbsp;ta aminokislotalar (leytsin, valin, izolo&rsquo;sin va&nbsp;boshqalar)&nbsp;&mdash; mushaklarning tiklanishi va&nbsp;o&rsquo;sishiga ko&rsquo;maklashadi va&nbsp;jismoniy faollikni ushlab turishga yordam beradi.</span>",
+					"text_4": "<span class='is-bold'>6&nbsp;ta ekstrakt (jenshen, ginkgo biloba, ko&rsquo;k choy va&nbsp;boshqalar)&nbsp;&mdash; energiya beradi, konsentratsiyani yaxshilaydi va&nbsp;har qanday vaziyatda xotirjamlikni saqlashga yordam beradi.</span>"
+				},
 				"tab_3": {
 					"text_1": "Metabolizmni yaxshilaydi",
 					"text_2": "Nervlarni tinchlantiradi",
@@ -197,7 +243,42 @@
 					"text_2": "<span class='is-bold'>HALAL</span>&nbsp;&mdash; bu&nbsp;mahsulot Islom me&rsquo;yorlari talablariga javob berishini va&nbsp;musulmonlar tomonidan iste&rsquo;mol qilinishi mumkinligini tasdiqlovchi sertifikat. HALAL sertifikati&nbsp;&mdash; mahsulotlarning qat&rsquo;iy standartlarga muvofiq ishlab chiqarilishini ta&rsquo;minlaydi, bu&nbsp;ta&rsquo;qiqlangan ingrediyentlar va&nbsp;ishlab chiqarish usullaridan foydalanishni istisno qiladi. Ushbu sertifikat hammaga ham berilmaydi, faqat belgilangan diniy standartlarga javob beradigan kompaniyalarga beriladi.",
 					"text_3": "<span class='is-bold'>100% tabiiy mahsulot sintetik, bo&rsquo;yoq va&nbsp;konservantlarsiz faqat tabiiy ingrediyentlardan foydalanishni kafolatlaydi. Ushbu sertifikat ishlab chiqarishning barcha bosqichlarida&nbsp;&mdash; xom ashyodan tortib qadoqlashgacha bo&rsquo;lgan qat&rsquo;iy tabiiy standartlarga javob beradigan mahsulotlarga beriladi. Bu&nbsp;mahsulot butunlay tabiiy, sog&rsquo;liq va&nbsp;atrof-muhit uchun xavfsiz ekanligini tasdiqlaydi.</span>"
 				}
+			},
+			"prod_2": {
+				"text": "Ayollar uchun multivitaminlar&nbsp;&mdash; sizning maxfiy ittifoqdoshingiz bo&rsquo;lib, qanday sharoitda bo&rsquo;lishingizdan qat&rsquo;iy nazar, o&rsquo;zingizni eng yuqori cho&rsquo;qqida his qilishingizga yordam beradi. Ushbu kompleks yordamida siz nafaqat sog&rsquo;lom, balki hayotiy kuchga ham ega bo&rsquo;lasiz.",
+				"tab_1": {
+					"text_1": "2&nbsp;kapsuladan kuniga 3&nbsp;martta ovqatdan 30-45 daqiqa oldin mutaxassis ko&rsquo;rsatmasi bo&rsquo;yicha.",
+					"text_2": "Quruq, yorug&rsquo;likdan himoyalangan joyda, 25&deg;C dan yuqori bo&rsquo;lmagan haroratda saqlang.",
+					"text_3": "Yaroqlilik muddati 24&nbsp;oy."
+				},
+				"tab_2": {
+					"text_1": "<span class='is-bold'>7&nbsp;ta vitamin (A, C, D, B-kompleks)</span>&nbsp;&mdash; terining sog&rsquo;lig&rsquo;ini qo&rsquo;llab-quvvatlaydi, immunitetni mustahkamlaydi va&nbsp;hissiy muvozanatni saqlashga yordam beradi.",
+					"text_2": "<span class='is-bold'>4&nbsp;ta mineral (kaltsiy, magniy, sink)</span>&nbsp;&mdash; suyaklarni mustahkamlaydi va&nbsp;ayollar salomatligini qo&rsquo;llab-quvvatlaydi.",
+					"text_3": "<span class='is-bold'>L-karnitin</span>&nbsp;&mdash; ortiqcha yog&rsquo;ni yoqishga yordam beradi va&nbsp;faol kun uchun energiya beradi.",
+					"text_4": "<span class='is-bold'>4&nbsp;ta ekstrakt (klyukva, chernika, ginkgo biloba, ko&rsquo;k choy)</span>&nbsp;&mdash; metabolizmni yaxshilaydi, menstruatsiya paytida og&rsquo;riqni yengishga yordam beradi va&nbsp;hissiy tushkunliklarni kamaytiradi."
+				},
+				"tab_3": {
+					"text_1": "Metabolizmni yaxshilaydi",
+					"text_2": "Nervlarni tinchlantiradi",
+					"text_3": "Menstrual og'riqni yengillashtiradi",
+					"text_4": "Hissiy labillikni bartaraf etishga yordam beradi",
+					"text_5": "Qo'shimcha energiya beradi",
+					"text_6": "Ortiqcha vazndan xalos bo'lishga yordam beradi"
+				},
+				"tab_4": {
+					"text_1": "Umumiy zaiflik",
+					"text_2": "Surunkali charchoq sindromi",
+					"text_3": "Depressiv sindrom",
+					"text_4": "Menstrual og'riq",
+					"text_5": "Ortiqcha vazn va semirish",
+					"text_6": "Postmenopozal sindrom"
+				},
+				"tab_5": {
+					"text_1": "Mahsulot tarkibiy qismlariga yuqori sezuvchanlik bo&rsquo;lsa.",
+					"text_2": "Og&rsquo;ir yurak, jigar va&nbsp;buyrak yetishmovchiligi bo&rsquo;lsa."
+				}
 			}
+
 		},
 		"share": {
 			"title": {
