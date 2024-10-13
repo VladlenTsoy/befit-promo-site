@@ -32,8 +32,8 @@ const changeTranslate = () => {
 }
 
 function selectLang (picker, lang) {
-	// $('.lang__btn').removeClass('is-active');
-	picker.addClass('is-active');
+	$('.header__lang').removeClass('is-hidden');
+	picker.addClass('is-hidden');
 
 	localStorage.setItem('language', lang);
 	general.lang = lang;
@@ -43,7 +43,7 @@ const init = (container) => {
 	i18n.defaultLocale = 'ru';
 	i18n.locale = localStorage.getItem('language') || 'ru';
 
-	$('[data-lang="'+i18n.locale+'"]').addClass('is-active').siblings().removeClass('is-active');
+	$('[data-lang="'+i18n.locale+'"]').addClass('is-hidden').siblings().removeClass('is-hidden');
 
 	changeTranslate();
 
