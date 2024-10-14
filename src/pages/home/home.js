@@ -146,10 +146,7 @@ const sendPublication = () => {
 	const API = 'https://befit-promo-api.vercel.app/send-application';
 
 	const name = $("input[name='name']").val();
-	const phone = $("input[name='phone']").val();
-
-	console.log('data.phone', name);
-	console.log('data.phone', phone);
+	const phone = $("input[name='phone']").val().replace(/\s+/g, '');
 
 	const data = {
 		name: name,
