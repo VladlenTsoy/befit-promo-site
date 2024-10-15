@@ -81,8 +81,7 @@
 				"tab_3": {
 					"text_1": "Улучшает обмен веществ",
 					"text_2": "Успокаивает нервы",
-					"text_3": "Укрепляет иммунитет",
-					"text_4": "Улучшает качество семени",
+					"text_3": "укрепляет иммунитет",
 					"text_5": "Обеспечивает дополнительную энергию",
 					"text_6": "Помогает избавиться от лишнего веса"
 				},
@@ -120,7 +119,7 @@
 				"tab_3": {
 					"text_1": "Улучшает обмен веществ",
 					"text_2": "Успокаивает нервы",
-					"text_3": "Укрепляет иммунитет",
+					"text_3": "укрепляет иммунитет",
 					"text_4": "Помогает устранить эмоциональную лабильность",
 					"text_5": "Обеспечивает дополнительную энергию",
 					"text_6": "Помогает избавиться от лишнего веса"
@@ -271,7 +270,6 @@
 					"text_1": "Metabolizmni yaxshilaydi",
 					"text_2": "Nervlarni tinchlantiradi",
 					"text_3": "Immunitetni mustahkamlaydi",
-					"text_4": "Urug’ sifatini yaxshilaydi",
 					"text_5": "Qo'shimcha energiya beradi",
 					"text_6": "Ortiqcha vazndan xalos bo'lishga yordam beradi"
 				},
