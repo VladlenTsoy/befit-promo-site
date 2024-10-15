@@ -79,9 +79,9 @@
 					"text_4": "<span class='is-bold'>6&nbsp;экстрактов (женьшень, гинкго билоба, зелёный чай и&nbsp;другие)</span>&nbsp;&mdash; заряжают энергией, улучшают концентрацию и&nbsp;помогают сохранять спокойствие в&nbsp;любой ситуации."
 				},
 				"tab_3": {
-					"text_1": "Улучшает обмен веществ",
-					"text_2": "Успокаивает нервы",
-					"text_3": "укрепляет иммунитет",
+					"text_1": "Укрепляет иммунитет",
+					"text_2": "Улучшает обмен веществ",
+					"text_3": "Успокаивает нервы",
 					"text_5": "Обеспечивает дополнительную энергию",
 					"text_6": "Помогает избавиться от лишнего веса"
 				},
@@ -117,9 +117,9 @@
 					"text_4": "<span class='is-bold'>4&nbsp;экстракта (клюква, черника, гинкго билоба, зелёный чай)</span>&nbsp;&mdash; улучшают метаболизм, помогают справляться с&nbsp;менструальной болью и&nbsp;снижают эмоциональные перепады."
 				},
 				"tab_3": {
-					"text_1": "Улучшает обмен веществ",
-					"text_2": "Успокаивает нервы",
-					"text_3": "укрепляет иммунитет",
+					"text_1": "укрепляет иммунитет",
+					"text_2": "Улучшает обмен веществ",
+					"text_3": "Успокаивает нервы",
 					"text_4": "Помогает устранить эмоциональную лабильность",
 					"text_5": "Обеспечивает дополнительную энергию",
 					"text_6": "Помогает избавиться от лишнего веса"
@@ -267,9 +267,9 @@
 					"text_4": "<span class='is-bold'>6&nbsp;ta ekstrakt (jenshen, ginkgo biloba, ko&rsquo;k choy va&nbsp;boshqalar)</span>&nbsp;&mdash; energiya beradi, konsentratsiyani yaxshilaydi va&nbsp;har qanday vaziyatda xotirjamlikni saqlashga yordam beradi."
 				},
 				"tab_3": {
-					"text_1": "Metabolizmni yaxshilaydi",
-					"text_2": "Nervlarni tinchlantiradi",
-					"text_3": "Immunitetni mustahkamlaydi",
+					"text_1": "Immunitetni mustahkamlaydi",
+					"text_2": "Metabolizmni yaxshilaydi",
+					"text_3": "Nervlarni tinchlantiradi",
 					"text_5": "Qo'shimcha energiya beradi",
 					"text_6": "Ortiqcha vazndan xalos bo'lishga yordam beradi"
 				},
@@ -305,9 +305,9 @@
 					"text_4": "<span class='is-bold'>4&nbsp;ta ekstrakt (klyukva, chernika, ginkgo biloba, ko&rsquo;k choy)</span>&nbsp;&mdash; metabolizmni yaxshilaydi, menstruatsiya paytida og&rsquo;riqni yengishga yordam beradi va&nbsp;hissiy tushkunliklarni kamaytiradi."
 				},
 				"tab_3": {
-					"text_1": "Metabolizmni yaxshilaydi",
-					"text_2": "Nervlarni tinchlantiradi",
-					"text_3": "Immunitetni mustahkamlaydi",
+					"text_1": "Immunitetni mustahkamlaydi",
+					"text_2": "Metabolizmni yaxshilaydi",
+					"text_3": "Nervlarni tinchlantiradi",
 					"text_4": "Hissiy labillikni bartaraf etishga yordam beradi",
 					"text_5": "Qo'shimcha energiya beradi",
 					"text_6": "Ortiqcha vazndan xalos bo'lishga yordam beradi"
